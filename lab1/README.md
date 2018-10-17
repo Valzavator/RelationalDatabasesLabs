@@ -8,4 +8,4 @@
 
 ### Графічне подання розробленої моделі «сутність-зв’язок»:
 
-![ER-model](https://github.com/Valzavator/RelationalDatabasesLabs/lab1/images/er-model.png)
+![ER-model](https://github.com/Valzavator/RelationalDatabasesLabs/blob/master/lab1/images/er-model.png)
