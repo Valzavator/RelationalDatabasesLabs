@@ -45,6 +45,6 @@ tsvector_update_trigger(tsv, 'pg_catalog.english', plot);
 CREATE TABLE IF NOT EXISTS casting (
   film_id INTEGER NOT NULL REFERENCES films ON UPDATE CASCADE ON DELETE CASCADE,
   actor_id INTEGER NOT NULL REFERENCES actors ON UPDATE CASCADE ON DELETE RESTRICT,
-  ROLE VARCHAR(255) NOT NULL,
+  role VARCHAR(255) NOT NULL,
   PRIMARY KEY (film_id, actor_id, ROLE)
 );
