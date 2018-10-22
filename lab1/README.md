@@ -16,7 +16,7 @@
 
 ### Cтруктура бази даних:
 
-![DB-structure](https://github.com/Valzavator/RelationalDatabasesLabs/blob/master/lab1/images/database-structure.png)
+![DB-structure](https://github.com/Valzavator/RelationalDatabasesLabs/blob/master/lab1/images/database_structure.PNG)
 
 * * *
 
