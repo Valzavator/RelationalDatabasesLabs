@@ -16,7 +16,12 @@
 
 ### Cтруктура бази даних:
 
+![DB-structure](https://github.com/Valzavator/RelationalDatabasesLabs/blob/master/lab1/images/database_structure.PNG)
+
 * * *
 
 ### Приклади екранних форм:
 
+![Screenshots](https://github.com/Valzavator/RelationalDatabasesLabs/blob/master/lab1/images/screenshots1.png)
+![Screenshots](https://github.com/Valzavator/RelationalDatabasesLabs/blob/master/lab1/images/screenshots2.png)
+![Screenshots](https://github.com/Valzavator/RelationalDatabasesLabs/blob/master/lab1/images/screenshots3.png)
