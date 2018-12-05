@@ -1,0 +1,21 @@
+{
+  "name": "lab1-t",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "console.table": "^0.10.0",
+    "dotenv": "^6.0.0",
+    "faker": "^4.1.0",
+    "pg-promise": "^8.4.6",
+    "readline-sync": "^1.4.9",
+    "sequelize": "^4.41.2"
+  }
+}
